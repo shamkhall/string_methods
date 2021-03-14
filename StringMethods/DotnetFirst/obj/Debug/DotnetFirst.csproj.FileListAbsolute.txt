@@ -1,0 +1,6 @@
+C:\Users\shamkhal\Desktop\csharpApp\DotnetFirst\DotnetFirst\bin\Debug\DotnetFirst.exe
+C:\Users\shamkhal\Desktop\csharpApp\DotnetFirst\DotnetFirst\bin\Debug\DotnetFirst.pdb
+C:\Users\shamkhal\Desktop\csharpApp\DotnetFirst\DotnetFirst\obj\Debug\DotnetFirst.csprojAssemblyReference.cache
+C:\Users\shamkhal\Desktop\csharpApp\DotnetFirst\DotnetFirst\obj\Debug\DotnetFirst.csproj.CoreCompileInputs.cache
+C:\Users\shamkhal\Desktop\csharpApp\DotnetFirst\DotnetFirst\obj\Debug\DotnetFirst.exe
+C:\Users\shamkhal\Desktop\csharpApp\DotnetFirst\DotnetFirst\obj\Debug\DotnetFirst.pdb
